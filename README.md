@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=200&section=header&text=Hello~Heesane!&fontSize=50&animation=twinkling&fontAlign=70)
+![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=200&section=header&text=Hello~Heesane!&fontSize=50&animation=twinkling&fontAlign=100)
 
 <!---
 BADGE
