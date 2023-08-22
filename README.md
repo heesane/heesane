@@ -1,26 +1,23 @@
 ![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=header&text=Heesane&fontSize=80&animation=twinkling&fontAlign=80&descAlignY=100&rotate=15)
 
-<!---
-BADGE
-https://img.shields.io/badge/<LABEL>-<MESSAGE>-<COLOR>
---->
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fheesane&count_bg=%233D3EC8&title_bg=%23B80EC2&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-<a href="http://www.codinghhs.tech" target="_blank"><img src="https://img.shields.io/badge/Python-black?style=python&logo=python&logoColor=white"/></a>
-<a href="http://www.codinghhs.tech" target="_blank"><img src="https://img.shields.io/badge/MySQL-white?style=logitech&logo=mysql&logoColor=gray"/></a>
-<a href="http://www.codinghhs.tech" target="_blank"><img src="https://img.shields.io/badge/Docker-2496ED?style=logitech&logo=docker&logoColor=white"/></a>
 
-<!---
-heesane/heesane is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fheesane&count_bg=%233D3EC8&title_bg=%23B80EC2&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
 ## 👩‍💻Tech Stack
 
-<img src="https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white"> <img src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"> <img src="https://img.shields.io/badge/github_actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"> <img src="https://img.shields.io/badge/nginx-009639?style=for-the-badge&logo=nginx&logoColor=white"> <img src="https://img.shields.io/badge/amazon_ec2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white"> <img src="https://img.shields.io/badge/amazon_rds-527FFF?style=for-the-badge&logo=amazonrds&logoColor=white"> <img src="https://img.shields.io/badge/node_exporter-9FEF00?style=for-the-badge"> <img src="https://img.shields.io/badge/cadvisor-999999?style=for-the-badge"> <img src="https://img.shields.io/badge/grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white"> <img src="https://img.shields.io/badge/prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white"> <img src="https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=Elasticsearch&logoColor=white"> <img src="https://img.shields.io/badge/kibana-005571?style=for-the-badge&logo=Kibana&logoColor=white"> <img src="https://img.shields.io/badge/Logstash-005571?style=for-the-badge&logo=Logstash&logoColor=white">
+<img src="https://img.shields.io/badge/GitHub-181717?style=&logo=GitHub&logoColor=white">
+<img src="https://img.shields.io/badge/AWS-232F3E?style=&logo=Amazon AWS&logoColor=white">
+<img src="https://img.shields.io/badge/MySQL-white?style=&logo=mysql&logoColor=black"/>
+<img src="https://img.shields.io/badge/Python-3776AB?logo=Python&logoColor=white"/>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=&logo=FastAPI&logoColor=white">
+<img src="https://img.shields.io/badge/Django-092E20?style=&logo=django&logoColor=white">
+<img src="https://img.shields.io/badge/Docker-2496ED?style=&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/Github_Actions-2088FF?style=&logo=githubactions&logoColor=white">
 
-|Area|Teck Stack|
-|:----:|:-------:|
-|Frontend|<img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=white"> <img src="https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=TypeScript&logoColor=white"> <img src="https://img.shields.io/badge/Vite-646CFF.svg?&style=for-the-badge&logo=vite&logoColor=white"> <img src="https://img.shields.io/badge/tailwindcss-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"> <img alt="Recoil" src ="https://img.shields.io/badge/Recoil-0075EB.svg?&style=for-the-badge&logo=Revolut&logoColor=white"> <img src="https://img.shields.io/badge/eslint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white"> <img src="https://img.shields.io/badge/prettier-F7B93E?style=for-the-badge&logo=prettier&logoColor=white"> <img src="https://img.shields.io/badge/react_router-CA4245?style=for-the-badge&logo=reactrouter&logoColor=white">|
-|Backend|<img src="https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white"> <img src="https://img.shields.io/badge/django_rest-801010?style=for-the-badge&logo=django&labelColor=97979A&logoColor=white"> <img src="https://img.shields.io/badge/UVICORN-BA2BD2?style=for-the-badge&logo=gunicorn&logoColor=white"> |
-|DevOps|<img src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"> <img src="https://img.shields.io/badge/github_actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"> <img src="https://img.shields.io/badge/nginx-009639?style=for-the-badge&logo=nginx&logoColor=white"> <img src="https://img.shields.io/badge/amazon_ec2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white"> <img src="https://img.shields.io/badge/amazon_rds-527FFF?style=for-the-badge&logo=amazonrds&logoColor=white">|
-|Monitoring|<img src="https://img.shields.io/badge/node_exporter-9FEF00?style=for-the-badge"> <img src="https://img.shields.io/badge/cadvisor-999999?style=for-the-badge"> <img src="https://img.shields.io/badge/grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white"> <img src="https://img.shields.io/badge/prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white"> <img src="https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=Elasticsearch&logoColor=white"> <img src="https://img.shields.io/badge/kibana-005571?style=for-the-badge&logo=Kibana&logoColor=white"> <img src="https://img.shields.io/badge/Logstash-005571?style=for-the-badge&logo=Logstash&logoColor=white">|
-|ETC|<img src="https://img.shields.io/badge/slack-4A154B?style=for-the-badge&logo=slack&logoColor=white"> <img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white"> <img src="https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"> <img src="https://img.shields.io/badge/postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"> <img src="https://img.shields.io/badge/swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=white"> <img src="https://img.shields.io/badge/gitkraken-179287?style=for-the-badge&logo=gitkraken&logoColor=white"> <img src="https://img.shields.io/badge/pycharm-000000?style=for-the-badge&logo=pycharm&logoColor=white"> <img src="https://img.shields.io/badge/vscode-007ACC?style=for-the-badge&logo=visual studio code&logoColor=white"> <img src="https://img.shields.io/badge/k6-7D64FF?style=for-the-badge&logo=k6&logoColor=white">|
+<img src="https://img.shields.io/badge/Node_Exporter-9FEF00?style=&loho=node-exporter"> 
+<img src="https://img.shields.io/badge/cAdvisor-999999?style="> 
+<img src="https://img.shields.io/badge/Grafana-F46800?style=&logo=grafana&logoColor=white"> 
+<img src="https://img.shields.io/badge/Prometheus-E6522C?style=&logo=prometheus&logoColor=white"> 
+<img src="https://img.shields.io/badge/Elasticsearch-005571?style=&logo=Elasticsearch&logoColor=white"> 
+<img src="https://img.shields.io/badge/Kibana-005571?style=&logo=Kibana&logoColor=white"> 
+<img src="https://img.shields.io/badge/Logstash-005571?style=&logo=Logstash&logoColor=white">
