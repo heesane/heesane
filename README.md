@@ -5,4 +5,17 @@
 
 ## 👩‍💻Tech Stack
 
-<img src="https://img.shields.io/badge/GitHub-181717?style=&logo=GitHub&logoColor=white"> <img src="https://img.shields.io/badge/AWS-232F3E?style=&logo=Amazon AWS&logoColor=white"> <img src="https://img.shields.io/badge/MySQL-white?style=&logo=mysql&logoColor=black"/> <img src="https://img.shields.io/badge/Python-3776AB?logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/FastAPI-009688?style=&logo=FastAPI&logoColor=white"> <img src="https://img.shields.io/badge/Django-092E20?style=&logo=django&logoColor=white"> <img src="https://img.shields.io/badge/Docker-2496ED?style=&logo=docker&logoColor=white"/> <img src="https://img.shields.io/badge/Github_Actions-2088FF?style=&logo=githubactions&logoColor=white"> <img src="https://img.shields.io/badge/Node_Exporter-9FEF00?style=&loho=node-exporter">  <img src="https://img.shields.io/badge/cAdvisor-999999?style=">  <img src="https://img.shields.io/badge/Grafana-F46800?style=&logo=grafana&logoColor=white">  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=&logo=prometheus&logoColor=white">  <img src="https://img.shields.io/badge/Elasticsearch-005571?style=&logo=Elasticsearch&logoColor=white">  <img src="https://img.shields.io/badge/Kibana-005571?style=&logo=Kibana&logoColor=white"> <img src="https://img.shields.io/badge/Logstash-005571?style=&logo=Logstash&logoColor=white">
+<img src="https://img.shields.io/badge/GitHub-181717?style=&logo=GitHub&logoColor=white"> <img src="https://img.shields.io/badge/AWS-232F3E?style=&logo=Amazon AWS&logoColor=white"> <img src="https://img.shields.io/badge/MySQL-white?style=&logo=mysql&logoColor=black"/> <img src="https://img.shields.io/badge/Python-3776AB?logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/FastAPI-009688?style=&logo=FastAPI&logoColor=white"> <img src="https://img.shields.io/badge/Django-092E20?style=&logo=django&logoColor=white"> <img src="https://img.shields.io/badge/Docker-2496ED?style=&logo=docker&logoColor=white"/>
+
+<h3 align="center">💡 My Most Used Languages 💡</h3>
+<p align="center">
+  <a href="https://github.com/heesane">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=heesane&layout=compact&show_icons=true&show_owner=true&hide_title=false" />
+  </a>
+</p>
+<h3 align="center">💡 My Git Stats 💡</h3>
+<p align="center">
+  <a href="https://github.com/heesane">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=heesane&hide_title=false&show_icons=true&include_all_commits=true&theme=${테마}" />
+  </a>
+</p>
