@@ -10,12 +10,12 @@
 <h3 align="left">💡 My Most Used Languages 💡</h3>
 <p align="left">
   <a href="https://github.com/heesane">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=heesane&layout=compact&show_icons=true&show_owner=true&hide_title=false" />
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=heesane&layout=compact&show_icons=true&show_owner=true&hide_title=false" />
   </a>
 </p>
 <h3 align="left">💡 My Git Stats 💡</h3>
 <p align="left">
   <a href="https://github.com/heesane">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=heesane" />
+    <img align="left" src="https://github-readme-stats.vercel.app/api?username=heesane" />
   </a>
 </p>
