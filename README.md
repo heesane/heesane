@@ -7,15 +7,18 @@
 
 <img src="https://img.shields.io/badge/GitHub-181717?style=&logo=GitHub&logoColor=white"> <img src="https://img.shields.io/badge/AWS-232F3E?style=&logo=Amazon AWS&logoColor=white"> <img src="https://img.shields.io/badge/MySQL-white?style=&logo=mysql&logoColor=black"/> <img src="https://img.shields.io/badge/Python-3776AB?logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/FastAPI-009688?style=&logo=FastAPI&logoColor=white"> <img src="https://img.shields.io/badge/Django-092E20?style=&logo=django&logoColor=white"> <img src="https://img.shields.io/badge/Docker-2496ED?style=&logo=docker&logoColor=white"/>
 
-<h3 align="left">💡 My Most Used Languages 💡</h3>
-<p align="left">
-  <a href="https://github.com/heesane">
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=heesane&layout=compact&show_icons=true&show_owner=true&hide_title=false" />
-  </a>
-</p>
-<h3 align="left">💡 My Git Stats 💡</h3>
-<p align="left">
-  <a href="https://github.com/heesane">
-    <img align="left" src="https://github-readme-stats.vercel.app/api?username=heesane" />
-  </a>
-</p>
+<div>
+  <h3>💡 My Most Used Languages 💡</h3>
+  <p>
+    <a href="https://github.com/heesane">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=heesane&layout=compact&show_icons=true&show_owner=true&hide_title=false" />
+    </a>
+  </p>
+  <h3>💡 My Git Stats 💡</h3>
+  <p>
+    <a href="https://github.com/heesane">
+      <img src="https://github-readme-stats.vercel.app/api?username=heesane" />
+    </a>
+  </p>
+</div>
+
