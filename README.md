@@ -3,6 +3,22 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fheesane&count_bg=%233D3EC8&title_bg=%23B80EC2&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
+## 💡 My Git Info 💡
+<div style="display: flex; justify-content: space-between; align-items: center;">
+  <div align=center>
+    <p>
+      <a href="https://github.com/heesane">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=heesane&layout=compact&show_icons=true&show_owner=true&hide_title=false" />
+      </a>
+      <a href="https://github.com/heesane">
+        <img src="https://github-readme-stats.vercel.app/api?username=heesane" />
+      </a>
+    </p>
+  </div>
+</div>
+
+
+
 ## 👩‍💻Tech Stack
 <div align=left>
   <h3>Language</h3>
@@ -42,17 +58,3 @@
 
 ------
 
-<div>
-  <h3>💡 My Most Used Languages 💡</h3>
-  <p>
-    <a href="https://github.com/heesane">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=heesane&layout=compact&show_icons=true&show_owner=true&hide_title=false" />
-    </a>
-  </p>
-  <h3>💡 My Git Stats 💡</h3>
-  <p>
-    <a href="https://github.com/heesane">
-      <img src="https://github-readme-stats.vercel.app/api?username=heesane" />
-    </a>
-  </p>
-</div>
