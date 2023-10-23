@@ -50,5 +50,4 @@
   <img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=for-the-badge&logo=IntelliJ IDEA&logoColor=white">
 </div>
 
-## How much I coded this week...
-[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=heesane&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=heesane&layout=compact&custom_title=How%20Much%20I%20Coded%20This%20Week...)](https://github.com/anuraghazra/github-readme-stats)
