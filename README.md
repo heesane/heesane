@@ -2,21 +2,15 @@
 
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fheesane&count_bg=%233D3EC8&title_bg=%23B80EC2&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+[![wakatime](https://wakatime.com/badge/user/3b9ef594-641b-476e-ab3f-6512fbebb9f1.svg)](https://wakatime.com/@3b9ef594-641b-476e-ab3f-6512fbebb9f1)
 
 ## 💡 My Git Info 💡
-<div style="display: flex; justify-content: space-between; align-items: center;">
-  <div align=center>
-    <p>
-      <a href="https://github.com/heesane">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=heesane&layout=compact&show_icons=true&show_owner=true&hide_title=false" />
-      </a>
-      <a href="https://github.com/heesane">
-        <img src="https://github-readme-stats.vercel.app/api?username=heesane" />
-      </a>
-    </p>
-  </div>
-</div>
-
+<a href="https://github.com/heesane">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=heesane&langs_count=8&layout=compact" />
+</a>
+<a href="https://github.com/heesane">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=heesane&show_icons=true&theme=synthwave&count_private=true" />
+</a>
 
 
 ## 👩‍💻Tech Stack
@@ -56,5 +50,5 @@
   <img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=for-the-badge&logo=IntelliJ IDEA&logoColor=white">
 </div>
 
-------
-
+## How much I coded this week...
+[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=heesane&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
