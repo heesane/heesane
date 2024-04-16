@@ -1,4 +1,5 @@
-[##_Image|kage@btCTy0/btsGBhtxIUY/UsJWYKeVF8jej8buvxFtuk/img.png|CDM|1.3|{"originWidth":1196,"originHeight":3054,"style":"alignCenter"}_##]
+![image](https://github.com/heesane/heesane/assets/93089183/b4a5640f-4398-4e4c-9d91-7d0b94f7426d)
+
 
 ## 개요
 
@@ -11,7 +12,8 @@
 
 ---
 
-[##_Image|kage@dyVX4M/btsGBRg4hKu/K5zw3VsQYQaF4oxiV2vWMK/img.png|CDM|1.3|{"originWidth":1151,"originHeight":446,"style":"alignCenter"}_##]
+![image](https://github.com/heesane/heesane/assets/93089183/a934cd0c-f7ae-4586-86f1-d4aa99a4d0ae)
+
 
 위의 백엔드 로드맵을 예시로 들면, 가자 먼저 인터넷에 관한 지식들을 먼저 학습하라고 한다.
 
@@ -23,13 +25,15 @@
 
 ---
 
-[##_Image|kage@pVwfU/btsGBc0ln2a/IeX3q0S1hDTu7YcYMcpy5K/img.png|CDM|1.3|{"originWidth":1080,"originHeight":314,"style":"alignCenter"}_##]
+![image](https://github.com/heesane/heesane/assets/93089183/310a8bfd-f193-4ee6-8fdf-4f9a5af27972)
+
 
 백엔드는 기본적으로는 Ubuntu, RedHat, OpenSuSe와 같은 Linux 기반의 서버 아래에서 동작하기 때문에, 터미널을 사용하는 방법, 프로세스, 스레드, 메모리, 동시성과 같은 OS 지식들을 배우고 학습하기를 권장하는 것 같다.
 
 ---
 
-[##_Image|kage@bn9xYj/btsGAM8H5C4/y9FOeIWuxKobB4xcwhjmB1/img.png|CDM|1.3|{"originWidth":851,"originHeight":168,"style":"alignCenter"}_##]
+![image](https://github.com/heesane/heesane/assets/93089183/b308a4c1-c069-462c-8745-993cebe5d174)
+
 
 이제야 비로소 프로그래밍 언어에 관한 지식을 습득할 차례이다.
 
@@ -39,13 +43,15 @@
 
 ---
 
-[##_Image|kage@cw2TQh/btsGCY7p2DN/PL36uCikh8ryqG9yEr3ENK/img.png|CDM|1.3|{"originWidth":1137,"originHeight":189,"style":"alignCenter"}_##]
+![image](https://github.com/heesane/heesane/assets/93089183/9e6a8f91-00f1-46ab-80ef-358d60ccbbc0)
+
 
 다음은 **Git**과 관련된 부분이다. 해당 부분은 매우 중요한데, 개발자로서 어느 회사에 가더라도 버전 관리에 대한 필요성을 두말할 필요도 없이 중요하다. 왜냐하면, 업데이트 버전에 버그나 이슈가 발생할 경우 롤백의 필요성이 존재하는데, 이런 소스코드를 로컬에 저장할 경우 유실될 가능성이 존재하며, 동료와 함께 공유하고 협업을 진행하기에 상당히 어렵기 때문에 Git과 관련된 지식을 보다 우선적으로 학습하는 것을 권장한다.
 
 ---
 
-[##_Image|kage@bFa604/btsGCa1x3zC/xrunNjM1RHjqRkoAgd0Y21/img.png|CDM|1.3|{"originWidth":1178,"originHeight":368,"style":"alignCenter"}_##]
+![image](https://github.com/heesane/heesane/assets/93089183/b5dd2b7f-864b-4990-9086-0c04b9e68dfc)
+
 
 다음은, 데이터베이스에 관한 지식이다.
 
@@ -63,7 +69,8 @@
 
 ---
 
-[##_Image|kage@eyiDMs/btsGCuFvatS/563GBtABg0kKRA9IxsGD20/img.png|CDM|1.3|{"originWidth":1122,"originHeight":243,"style":"alignCenter"}_##]
+![image](https://github.com/heesane/heesane/assets/93089183/f3cd151e-27dd-4c77-a84c-a6d4ca29392b)
+
 
 다음으로는 API에 대해서 학습을 진행한다.
 
@@ -77,7 +84,8 @@
 
 ---
 
-[##_Image|kage@UX2z8/btsGAMOn20Q/MNfx7pnCURsHFBxkTqgJo1/img.png|CDM|1.3|{"originWidth":553,"originHeight":147,"style":"alignCenter"}_##]
+![image](https://github.com/heesane/heesane/assets/93089183/011bb895-ec3b-4a79-ab02-21eb3efff6f5)
+
 
 다음은 캐시에 관한 지식이다.
 
@@ -95,7 +103,8 @@ Redis와 Memcached 역시 사용자에게 정보를 빠르게 전달하고 처�
 
 ---
 
-[##_Image|kage@vNnFh/btsGCv5rn1b/c5LmtYptuYNzMzUesGGwz1/img.png|CDM|1.3|{"originWidth":575,"originHeight":208,"style":"alignCenter"}_##]
+![image](https://github.com/heesane/heesane/assets/93089183/a2255965-10b0-4828-94b1-bb7c837abe06)
+
 
 웹 보안 지식에는 **SHA 함수군과 scrypt, bcrypt, MD5와 관련된 내용**을 학습하라고 적혀있다.
 
@@ -109,7 +118,8 @@ Redis와 Memcached 역시 사용자에게 정보를 빠르게 전달하고 처�
 
 ---
 
-[##_Image|kage@cE4gNx/btsGBx31aug/TYyl1cjkwhzTEuetHkvtGK/img.png|CDM|1.3|{"originWidth":425,"originHeight":143,"style":"alignCenter"}_##]
+![image](https://github.com/heesane/heesane/assets/93089183/81182d6c-d99a-48d3-8b17-90722fb82a22)
+
 
 백엔드 개발자라면 최소한 한 번 정도는 들어 봤을 법한 테스트에 관한 내용이다.
 
@@ -121,19 +131,22 @@ Redis와 Memcached 역시 사용자에게 정보를 빠르게 전달하고 처�
 
 ---
 
-[##_Image|kage@P3gmW/btsGCdKKSYk/9QEVACzYqms3FVjs59s460/img.png|CDM|1.3|{"originWidth":1115,"originHeight":341,"style":"alignCenter"}_##]
+![image](https://github.com/heesane/heesane/assets/93089183/38f194b6-11ef-4280-96d0-03cdc7e4d997)
+
 
 다음으로 개발 설계 원칙, 아키텍처 패턴, 검색 엔진과 같은 내용들이 있는데, 저 한 칸의 키워드로 두꺼운 책 한 편을 펴낼 수 있을 정도로 방대한 내용들이 존재한다.
 
 ---
 
-[##_Image|kage@bZYYzO/btsGAzaGymq/kHX4dKbvErQeUMuc4X6L5K/img.png|CDM|1.3|{"originWidth":1064,"originHeight":269,"style":"alignCenter"}_##]
+![image](https://github.com/heesane/heesane/assets/93089183/fa65d9e8-2e86-4a1b-8e96-eaf3df8325ed)
+
 
 다음은 메시지 브로커, 컨테이너화 대 가상화, GraphQL, GraphDB들이 존재하는데, 이 역시 위와 마찬가지로 너무나도 많은 지식들을 내포하고 있다.
 
 여기에는 내가 가장 재밌어하는 키워드가 존재하는데, Docker가 바로 그 키워드이다. 이것 때문에 개발자를 희망하게 되었고, Docker 기능을 극대화해서 Orchestration을 수행하는 것이 Kubernetes인데, 현재 여러 책들과 공식 문서들을 통해 공부하고 있는 상황이다.
 
-[##_Image|kage@NRDeD/btsGAfJ5HbF/1lbPFA9TGUCkB9K6IretfK/img.png|CDM|1.3|{"originWidth":1170,"originHeight":493,"style":"alignCenter"}_##]
+![image](https://github.com/heesane/heesane/assets/93089183/801177af-8819-4277-9a07-9789a3fd0a85)
+
 
 마지막으로, 웹소켓과 웹 서버, 확장성 있는 구축에 관한 내용들인데, 사실 개발입문자로 보기에 확장성 있는 구축은 희망자 입장에서는 건들기가 쉽지 않은 주제라고 생각된다. 
 
