@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=header&text=Heesane&fontSize=80&animation=twinkling&fontAlign=80&descAlignY=100&rotate=15)
  
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fheesane&count_bg=%233D3EC8&title_bg=%23B80EC2&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)] (https://hits.seeyoufarm.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fheesane&count_bg=%233D3EC8&title_bg=%23B80EC2&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 [![wakatime](https://wakatime.com/badge/user/3b9ef594-641b-476e-ab3f-6512fbebb9f1.svg)](https://wakatime.com/@3b9ef594-641b-476e-ab3f-6512fbebb9f1)
 
 ## 💡 My Git Info 💡
