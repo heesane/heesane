@@ -6,10 +6,10 @@
 
 ## 💡 My Git Info 💡
 <a href="https://github.com/heesane">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=heesane&langs_count=8&layout=compact" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=heesane&langs_count=8&layout=compact"/>
 </a>
 <a href="https://github.com/heesane">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=heesane&show_icons=true&theme=synthwave&count_private=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=heesane&show_icons=true&theme=synthwave&count_private=true"/>
 </a>
     
  
