@@ -7,7 +7,8 @@
 <a href="https://github.com/heesane">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=heesane&show_icons=true&theme=synthwave&count_private=true"/>
 </a>
-    
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=heesane&theme=dark&border_radius=4&date_format=j%20M%5B%20Y%5D&card_width=481&border=3DEB76)](https://git.io/streak-stats)
  
 ## 👩‍💻Tech Stack
 <div align=left>
@@ -38,5 +39,4 @@
   
 </div>
 
-![profile-3d-contrib/profile-gitblock.svg](https://github.com/heesane/heesane/blob/main/profile-3d-contrib/profile-green-animate.svg)
 
