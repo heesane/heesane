@@ -40,3 +40,9 @@
 </div>
 
 
+## 🧑🏻‍💻 Now I'm Trying...
+
+* Home Server
+* Discord Bot
+* Learning Large-Scale Traffic
+* K8s, Helm, Terraform
