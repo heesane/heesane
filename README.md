@@ -42,6 +42,6 @@
 
 ## 🧑🏻‍💻 Now I'm Trying...
 
-* Computer Science
+* Computer Science
 * Java/SpringBoot
 * TestCode
