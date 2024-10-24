@@ -75,8 +75,9 @@
   </h2> 
   <div align= "center"> 
     <img src="https://github-readme-stats.vercel.app/api?username=heesane&bg_color=60,9cc4ba,7cbd2e&title_color=000000&text_color=000000"/> 
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=heesane&layout=compact&bg_color=60,9cc4ba,7cbd2e&title_color=000000&text_color=000000"/> 
     <img src="https://streak-stats.demolab.com?user=heesane&theme=dark&border_radius=4&date_format=j%20M%5B%20Y%5D&card_width=481&border=3DEB76)](https://git.io/streak-stats"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=heesane&layout=compact&bg_color=60,9cc4ba,7cbd2e&title_color=000000&text_color=000000"/> 
+    
   </div> 
 </div>
 <br/>
