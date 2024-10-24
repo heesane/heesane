@@ -96,9 +96,9 @@
      😍 What I'm Studying About...
   </h2>
   <ul>
-    <li> Message Queue Kafka</li>
-    <li> Search Engine Elastic Search</li>
-    <li> Event-Driven Architecture</li>
+    <li> <strong>Message Queue Kafka</strong></li>
+    <li> <strong>Search Engine Elastic Search</strong></li>
+    <li> <strong>Event-Driven Architecture</strong></li>
   </ul>
 </div>
 
