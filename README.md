@@ -93,6 +93,11 @@
   <ul>
     <li>Deepening my knowledge in <strong>Computer Science</strong></li>
     <li>Mastering <strong>Java/Spring Boot</strong></li>
+      <ul>
+        <li>
+          <a href="https://medium.com/@tees3359/spring-boot-bean-주입-시-발생한-문제-8369780abbbb">다른 타입의 Bean 주입 시 발생할 수 있는 잠재적 위험</a>
+        </li>
+      </ul>
     <li>Improving my <strong>Test-Code With Mockito</strong></li>
   </ul>
 </div>
