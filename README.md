@@ -102,7 +102,13 @@
   </h2>
   <ul>
     <li> <strong>Message Queue Kafka</strong></li>
+      <ul>
+        <li><a href="https://medium.com/@tees3359/kafka-카프카란-dd62b952e34e">Kafka란?</a></li>
+      </ul>
     <li> <strong>Search Engine Elastic Search</strong></li>
+      <ul>
+        <li><a href="https://medium.com/@tees3359/elasticsearch-elasticsearch란-fd8f6a4f4e27">Elastic Search에 대해서</a></li>
+      </ul>
     <li> <strong>Event-Driven Architecture</strong></li>
   </ul>
 </div>
