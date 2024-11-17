@@ -117,4 +117,3 @@
     <li> <strong>Event-Driven Architecture</strong></li>
   </ul>
 </div>
-
