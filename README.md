@@ -109,6 +109,7 @@
     <li> <strong>Message Queue Kafka</strong></li>
       <ul>
         <li><a href="https://medium.com/@tees3359/kafka-카프카란-dd62b952e34e">Kafka란?</a></li>
+        <li><a href="https://medium.com/@tees3359/kafka-springboot-kafka-admin%EA%B3%BC-admin-client%EC%97%90-%EB%8C%80%ED%95%B4%EC%84%9C-90b4bb738e43li">Spring Kafka Admin과 Admin Client</a></li>
       </ul>
     <li> <strong>Search Engine Elastic Search</strong></li>
       <ul>
