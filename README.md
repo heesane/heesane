@@ -112,6 +112,9 @@
      😍 What I'm Studying About...
   </h2>
   <ul>
+    <li>
+      <a href="https://github.com/Coded-by-me/HomeLab"> <strong> Home Lab </strong></a>
+    </li>
     <li> <strong>Message Queue Kafka</strong></li>
       <ul>
         <li><a href="https://medium.com/@tees3359/kafka-카프카란-dd62b952e34e">Kafka란?</a></li>
