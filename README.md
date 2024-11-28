@@ -7,9 +7,15 @@
   </h2>
   <br/>
   <div align="center">
-    안녕하세요! 저는 다양한 백엔드 기술 스택과 함께 효율적인 애플리케이션 개발을 추구하는 개발자입니다!
+    Back-end와 DevOps를 좋아하는 개발자입니다.
     <br/><br/>
-    주로 Spring Boot Framework를 사용해서 확장성를 고려한 시스템 설계에 관심이 많습니다!
+    여러 개발 경험, 온프레미스 서버 운영 경험을 통해서 계속 새로운 것을 추구합니다.
+    <br/>
+    공부하는 것에 그치지 않고, 직접 온프레미스 서버에 환경을 구축하면서, 개발하고있습니다.
+    <br/><br/>
+    기획부터 백엔드 개발, 배포를 주로 맡아서 진행한 다양한 프로젝트 경험을 통해서 <br/>Code-Review와 Test Code의 중요성을 알고, 이를 통해 다양한 개발자들과 소통하며, 개발을 진행합니다.
+    <br/><br/>
+    On-Premise 환경에서 Kubenetes 환경을 구축하여, <br/>Kafka를 통한 비동기 처리, ELK Stack을 통한 Logging을 적용하여, 깊게 공부한 내용을 직접 적용하고 있습니다.
   </div>
   <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 
     🛠️ Tech Stacks 
@@ -80,9 +86,9 @@
     <!--연속 커밋 날짜-->
     <img src="https://streak-stats.demolab.com?user=heesane&theme=dark&border_radius=4&date_format=j%20M%5B%20Y%5D&card_width=481&border=3DEB76)](https://git.io/streak-stats"/>
     <!--가장 많이 사용하는 언어-->
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=heesane&layout=compact&bg_color=60,9cc4ba,7cbd2e&title_color=000000&text_color=000000"/> 
+<!--     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=heesane&layout=compact&bg_color=60,9cc4ba,7cbd2e&title_color=000000&text_color=000000"/>  -->
     <!--백준랭크-->
-    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ghkd110"/>
+<!--     <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ghkd110"/> -->
   </div> 
 </div>
 <br/>
