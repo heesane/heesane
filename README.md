@@ -7,15 +7,15 @@
   </h2>
   <br/>
   <div align="center">
-    Back-end와 DevOps를 좋아하는 개발자입니다.
+    Back-end와 DevOps를 모험하는 개발자입니다.
     <br/><br/>
     여러 개발 경험, 온프레미스 서버 운영 경험을 통해서 계속 새로운 것을 추구합니다.
     <br/>
     공부하는 것에 그치지 않고, 직접 온프레미스 서버에 환경을 구축하면서, 개발하고있습니다.
     <br/><br/>
-    기획부터 백엔드 개발, 배포를 주로 맡아서 진행한 다양한 프로젝트 경험을 통해서 <br/>Code-Review와 Test Code의 중요성을 알고, 이를 통해 다양한 개발자들과 소통하며, 개발을 진행합니다.
+    기획부터 백엔드 개발, 배포까지 주도적으로 다양한 프로젝트 경험을 바탕으로 <br/>코드 리뷰와 테스트 코드 작성의 중요성을 깊이 이해하고, <br/>이를 실천하여 팀원들과 적극적으로 소통하며 효율적인 협업을 진행합니다. 
     <br/><br/>
-    On-Premise 환경에서 Kubenetes 환경을 구축하여, <br/>Kafka를 통한 비동기 처리, ELK Stack을 통한 Logging을 적용하여, 깊게 공부한 내용을 직접 적용하고 있습니다.
+    On-Premise Kubenetes 환경을 구축하여, Kafka를 통한 비동기 처리와 ELK Stack을 통한 Logging 시스템을 설계하여,<br/> 학습한 내용을 실질적으로 적용해 본 경험이 있습니다.
   </div>
   <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 
     🛠️ Tech Stacks 
